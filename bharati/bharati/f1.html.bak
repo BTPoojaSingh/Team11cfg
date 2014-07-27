@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+  <link rel="stylesheet" type="text/css" href="top.css">
+ </HEAD>
+
+ <BODY>
+  <table width="100%">
+	<tr>
+		<td><IMG SRC="bharti_logo.jpg" WIDTH="260" HEIGHT="136" BORDER="0" ALT="">
+		<td><a href="home1.html" target="right"><h3>Home</h3></a></td>
+		<td><a href="tclogin.jsp" target="right"><h3>Teacher Login</h3></a></td>
+		<td><a href="trainer.html" target="right"><h3>Trainer Login</h3></a></td>
+		<td><a href="alogin.jsp" target="right"><h3>Admin Login</h3></a></td>
+		<td><a href="cluster.html" target="right"><h3>Cluster coodinater Login</h3></a></td>
+	<tr>
+	</table>
+
+
+ </BODY>
+</HTML>

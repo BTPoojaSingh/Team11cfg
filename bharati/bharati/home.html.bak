@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+ <FRAMESET ROWS="20%,*" >
+	<FRAME SRC="f1.html" NAME="top" scrolling="no">
+	<FRAMESET COLS="20%,*">
+		<FRAME SRC="f2.html" NAME="left" >
+		<FRAME SRC="f3.html" NAME="right" scrolling="no">
+	</FRAMESET>
+ <BODY>
+ 
+ </BODY>
+</HTML>

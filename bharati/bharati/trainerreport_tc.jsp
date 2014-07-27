@@ -1,0 +1,77 @@
+<%-- 
+    Document   : trainerreport
+    Created on : Jul 27, 2014, 1:52:37 AM
+    Author     : ROCK
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<title>FEEDBACK FORM</title>
+</head>
+<body>
+<h1 align="center">TRAINING FEEDBACK FORM</h1> 
+<form action="trrepsucc.jsp" method="post" name="form1" >
+Teacher Id:
+  <input type="text" name="tid" size="10" maxlength="30">
+  <br><br>
+  
+Trainer Id:
+<input name="trid" type="text" size="10" maxlength="30">
+<br>
+<h3 align="center">Please enter the score in the following statements</h3>
+<table width="700" border="0" cellspacing="5" cellpadding="0">
+  <tr>
+      <td>1
+    <td width="600">The content was meaningful with respect to the objectives of the session and addressed the expectations of the participants</td>
+    <td width="156"><input type="text" name="q1" size="10" maxlength="30">&nbsp;</td>
+  </tr>
+  <tr> <td>2
+      <td>  The activities,group work,discussions were useful and engaging</td>
+    <td><input type="text" name="q2" size="10" maxlength="30">&nbsp;</td>
+  </tr>
+  <tr> <td>3
+   
+    <td> The facilitator was supportive and effective.</td>
+    <td><input type="text" name="q3" size="10" maxlength="30">&nbsp;</td>
+  </tr>
+  <tr>
+    
+    <td> 4. <td><p> The facilitator questioned,probed,challenged the participants to draw out responses and processed them to facilitate learning</p>
+    </td>
+    <td><input type="text" name="q4" size="10" maxlength="30">&nbsp;</td>
+  </tr>
+  <tr>
+      <td>5.<td>The presentation was clear and helped my understanding</td>
+    <td><input type="text" name="q5" size="10" maxlength="30">&nbsp;</td>
+  </tr>
+  <!--<tr>
+   
+    <td>6.<td>The pace of the presentation was consistent</td>
+    <td><input type="text" name="q6" size="10" maxlength="30">&nbsp;</td>
+  </tr>
+  <tr>
+  
+    <td>7.<td>Learning of the session can be used/applied in the work place</td>
+    <td><input type="text" name="q7" size="10" maxlength="30">&nbsp;</td>
+  </tr>
+  <tr>
+  
+    <td>8.<td>Mention key learning which you will incorporate in your<br>
+classroom.[in 200]words</td>
+    <td><input type="text" name="q8" size="50" maxlength="100">&nbsp;</td>
+  </tr>
+  <tr>
+    
+    <td>9.<td>Any suggestions related to content/facilitation you may have to
+further improve this session</td>
+    <td><input type="text" name="q9" size="50" maxlength="100">&nbsp;</td>
+  </tr> -->
+  </table>
+  <input type="submit" value="submit">
+  <input type="reset" value="reset">
+  </form>
+
+</html>
+
